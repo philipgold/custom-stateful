@@ -1,3 +1,23 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out
+target
+
+# Patch Files #
+*.patch
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
